@@ -2,4 +2,4 @@
 
 | # | Project |
 |---|---------|
-| 1 | 1-Expanding Cards|
+| 1 |  |
