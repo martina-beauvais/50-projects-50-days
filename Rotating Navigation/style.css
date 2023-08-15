@@ -23,7 +23,7 @@ body{
     transform: rotate(-20deg);
 }
 
-.circle.container{
+.circle-container{
     position: fixed;
     top: -100px;
     left: -100px;
@@ -38,7 +38,7 @@ body{
     transition: transform 0.5s linear;
 }
 
-.container.show-nav.circle{
+.container.show-nav .circle{
     transform: rotate(-70deg);
 }
 
